@@ -10,6 +10,10 @@ You can check the Desktop Version (recommended to use on 📱 dispositives):
 
 ```https://david-martin-webdev.com/workout ```
 
+Or you can just go to releases and download it: 
+
+``` https://github.com/RevanHUB/workout-app/releases/tag/android ``` 
+
 
 # Credentials for testing: ✨
 ``` 📲  Username: test_user ```
