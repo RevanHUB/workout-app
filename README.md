@@ -14,6 +14,13 @@ Or you can just go to releases and download it:
 
 ``` https://github.com/RevanHUB/workout-app/releases/tag/android ``` 
 
+# Functions: ✨
+``` 💪 Calories counter working with a speed of 5 mets (5mets its like medium walking velocity) ✔️ ```
+``` 🔔 A Goals system which allows you to change the objectives you have for this month, your age, your weight, your session times, everything can be changed on profile tab ✔️```
+``` 🧑‍🤝‍🧑 A Community tab, you can find other users in the app and it show you if they're online or if they're training  ✔️```
+``` 🗓️ Calendar extension to check all the trainings of the week and higlighted, the current day  ✔️```
+
+
 
 # Credentials for testing: ✨
 ``` 📲  Username: test_user ```
